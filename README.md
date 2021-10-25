@@ -26,11 +26,11 @@ This session covers the basic concepts of Python and a first approach to the lan
 
 #### Resources
 
-* Jupyter Notebook: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
+* Jupyter Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2001/Notebook/01_Python_Bootcamp.ipynb)
 
 * Video: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
 
 * Slides: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
 
-* Solved Notebook: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
+* Solved Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2001/Solved%20Notebook/01_Python_Bootcamp_SOLVED.ipynb)
 ---
