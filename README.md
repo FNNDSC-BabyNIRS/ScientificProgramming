@@ -28,9 +28,28 @@ This session covers the basic concepts of Python and a first approach to the lan
 
 * Jupyter Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2001/Notebook/01_Python_Bootcamp.ipynb)
 
-* Video: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
+* Video: [Link](https://drive.google.com/file/d/1U4CX4KaWPVfc8SkZ2bpMAziBceqp1SMr/view?usp=sharing)
 
-* Slides: [Link]("https://www.youtube.com/watch?v=_uQrJ0TkZlc")
+* Slides: [Link](https://docs.google.com/presentation/d/1qVC2CMC0U-Q3hfqZbX5EqrPFZdAZeM0H/edit?usp=sharing&ouid=114937778263168440842&rtpof=true&sd=true)
 
 * Solved Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2001/Solved%20Notebook/01_Python_Bootcamp_SOLVED.ipynb)
+---
+
+### Session 02
+This session covers the basic concepts of Python and a first approach to the language.
+
+* I/O
+* Functions
+* Control Structures
+* Data
+
+#### Resources
+
+* Jupyter Notebook: [Link]()
+
+* Video: [Link]()
+
+* Slides: [Link](https://docs.google.com/presentation/d/1VnjOqem6ockKro6sBy_oD9W-4ixQFIdUiPseYKfcKqQ/edit?usp=sharing)
+
+* Solved Notebook: [Link]()
 ---
