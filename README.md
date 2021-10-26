@@ -45,11 +45,11 @@ This session covers the basic concepts of Python and a first approach to the lan
 
 #### Resources
 
-* Jupyter Notebook: [Link]()
+* Jupyter Notebook: [Link]
 
-* Video: [Link]()
+* Video: [Link]
 
 * Slides: [Link](https://docs.google.com/presentation/d/1VnjOqem6ockKro6sBy_oD9W-4ixQFIdUiPseYKfcKqQ/edit?usp=sharing)
 
-* Solved Notebook: [Link]()
+* Solved Notebook: [Link]
 ---
