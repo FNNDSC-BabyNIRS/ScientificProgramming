@@ -45,7 +45,7 @@ This session covers the basic concepts of Python and a first approach to the lan
 
 #### Resources
 
-* Jupyter Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Notebook/Python/Session%2002%20-%20LAB.ipynb
+* Jupyter Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Notebook/Python/Session%2002%20-%20LAB.ipynb)
 
 * Video: [Link]
 
