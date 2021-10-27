@@ -52,4 +52,8 @@ This session covers the basic concepts of Python and a first approach to the lan
 * Slides: [Link](https://docs.google.com/presentation/d/1VnjOqem6ockKro6sBy_oD9W-4ixQFIdUiPseYKfcKqQ/edit?usp=sharing)
 
 * Solved Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Solved%20Notebook/Session%2002%20-%20SOLVED%20LAB.ipynb)
+
+* Git Create Local Repository Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Notebook/Git/git_local_repository.ipynb)
+
+* Git Course Repository Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Notebook/Git/git_course_repository.ipynb)
 ---
