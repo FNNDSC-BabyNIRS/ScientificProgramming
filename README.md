@@ -61,3 +61,14 @@ This session covers the basic concepts of Python and a first approach to the lan
 
 * Git Course Repository Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2002/Notebook/Git/git_course_repository.ipynb)
 ---
+
+### Session 03
+This session covers an activity in teams to solve 3 different programming challenges that cover the previous topics. 
+
+#### Resources
+
+* Jupyter Notebook: [Link](https://github.com/FNNDSC-BabyNIRS/ScientificProgramming/blob/main/Materials/Session%2003/Notebook/Programming%20Challenges.ipynb)
+
+* Video: [Link]()
+
+---
