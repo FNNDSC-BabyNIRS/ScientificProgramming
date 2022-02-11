@@ -8,33 +8,3 @@
 8. Bangladesh	164098818
 9. Russia	142320790
 10. Mexico	128569498
-1. China	1407098834
-2. India	1380721926
-3. United States	331893745
-4. Indonesia	275122131
-5. Pakistan	238181034
-6. Nigeria	219463862
-7. Brazil	215903281
-8. Bangladesh	164098818
-9. Russia	142320790
-10. Mexico	128569498
-1. China	1407098834
-2. India	1380721926
-3. United States	331893745
-4. Indonesia	275122131
-5. Pakistan	238181034
-6. Nigeria	219463862
-7. Brazil	215903281
-8. Bangladesh	164098818
-9. Russia	142320790
-10. Mexico	128569498
-1. China	1407098834
-2. India	1380721926
-3. United States	331893745
-4. Indonesia	275122131
-5. Pakistan	238181034
-6. Nigeria	219463862
-7. Brazil	215903281
-8. Bangladesh	164098818
-9. Russia	142320790
-10. Mexico	128569498

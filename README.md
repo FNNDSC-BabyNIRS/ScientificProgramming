@@ -1,4 +1,5 @@
 # Scientific Programming
+#### Class Videos: [Link](https://drive.google.com/drive/folders/1sMYKfNo-kUVo0q3khjbKgpeWGbMiydei)
 
 
 ## I. Python Programming Language
@@ -19,7 +20,6 @@
 
 [In Progress]
 
-## Class Videos: [Link](https://drive.google.com/drive/folders/1sMYKfNo-kUVo0q3khjbKgpeWGbMiydei)
 
 
 ## Index
